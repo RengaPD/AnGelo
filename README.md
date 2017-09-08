@@ -69,7 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **RengaPD** - *Initial work, iOS* - [PurpleBooth](https://github.com/RengaPD)
+* **RengaPD** - *Initial work, iOS* 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
